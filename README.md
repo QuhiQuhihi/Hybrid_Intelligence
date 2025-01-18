@@ -1,2 +1,2 @@
 # Hybrid_Intelligence
-Code for "Hybrid Intelligence: Scenario-based Quantitative Model with Temporal Fusion Transformer and LLM"
+Code for "Quantitative Financial Models with Scenarios from LLM: Temporal Fusion Transformers as Alternative Monte-Carlo"
